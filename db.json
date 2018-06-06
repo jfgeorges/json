@@ -1,0 +1,41 @@
+{
+    "result": {
+        "schedules": [
+            {
+                "code": "ZUPE",
+                "message": "Train à l'approche",
+                "destination": "Saint-Germain-en-Laye"
+            },
+            {
+                "code": "UZAR",
+                "message": "10:11",
+                "destination": "Cergy-Le-Haut"
+            },
+            {
+                "code": "ZUPE",
+                "message": "10:14",
+                "destination": "Saint-Germain-en-Laye"
+            },
+            {
+                "code": "TROL",
+                "message": "10:18",
+                "destination": "Poissy"
+            },
+            {
+                "code": "UZAR",
+                "message": "10:21",
+                "destination": "Cergy-Le-Haut"
+            },
+            {
+                "code": "ZUPE",
+                "message": "10:24",
+                "destination": "Saint-Germain-en-Laye"
+            }
+        ]
+    },
+    "_metadata": {
+        "call": "GET /schedules/rers/A/Chatelet-les-halles/A",
+        "date": "2018-06-05T10:07:49+02:00",
+        "version": 3
+    }
+}
