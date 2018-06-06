@@ -3,7 +3,7 @@
         "schedules": [
             {
                 "code": "ZUPE",
-                "message": "Train à l'approche",
+                "message": "Train Ã  l'approche",
                 "destination": "Saint-Germain-en-Laye"
             },
             {
@@ -31,7 +31,15 @@
                 "message": "10:24",
                 "destination": "Saint-Germain-en-Laye"
             }
-        ]
+        ],
+    "trafic": [
+            {
+                "line": "B",
+                "slug": "normal",
+                "title": "Trafic normal",
+                "message": "Trafic normal sur l'ensemble de la ligne."
+            }
+        ],
     },
     "_metadata": {
         "call": "GET /schedules/rers/A/Chatelet-les-halles/A",
